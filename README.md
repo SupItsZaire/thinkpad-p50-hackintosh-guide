@@ -39,7 +39,7 @@ This guide was made primarily for educational purposes. Using this guide does no
 ---
 
 ## Currently working:
-The System currently works fine as is. If not still a bit sligtly iffy.
+The System currently works fine as is. If not still a bit slightly iffy.
 * Battery Status
 * Wifi (Completely fine after replacing the Wifi Card.)
 * Bluetooth*
