@@ -58,4 +58,5 @@ The System currently works fine as is. If not still a bit slightly iffy.
   * including 10W charging, even in sleep mode (only for the Always-On Port)
 
 *: These all are relying on the wifi card present. It is possible to patch in the original Intel card (Wifi/Bluetooth) using specific Kexts but this means it will be unreliable, has no AirDrop, Continuity, etc. Please refer here to the [Dortania OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/).
+
 **: This only works if you have setup the SMBIOS correctly including your Apple ID.
