@@ -4,9 +4,9 @@
 
 This guide will run you through the process of setting up your machine to a fully working MacOS install using Dortania's guide and my own experience. I will not distribute any Kexts/EFIs or will be able to help with quirks due to the different specifictions of this laptop.
 
-# Thanks to the people at the [r/Hackintosh Discord Server](https://discord.gg/Wxam8aH) for helping me get through the process of setting up OC (OpenCore) and to get more of an understanding towards Hackintoshing.
+### Thanks to the people at the [r/Hackintosh Discord Server](https://discord.gg/Wxam8aH) for helping me get through the process of setting up OC (OpenCore) and to get more of an understanding towards Hackintoshing.
 
-# I will reference [midi1996's P50 OpenCore Guide](https://github.com/midi1996/P50-opencore-hackintosh/) throughout this guide, without them I wouldn't even have started this journey <3
+### I will reference [midi1996's P50 OpenCore Guide](https://github.com/midi1996/P50-opencore-hackintosh/) throughout this guide, without them I wouldn't even have started this journey <3
 
 ---
 
