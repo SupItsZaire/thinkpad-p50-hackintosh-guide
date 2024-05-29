@@ -1,4 +1,4 @@
-# Thinkpad P50 Hackintosh-ing made (sorta) easy / [OpenCore only]
+# Thinkpad P50 Hackintosh-ing made (sorta) easy / [OpenCore only] __(UNFINISHED)__
 
 ---
 
