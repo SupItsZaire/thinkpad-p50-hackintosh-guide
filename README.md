@@ -1,4 +1,19 @@
+![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=for-the-badge)
+[![Moved to Codeberg](https://img.shields.io/badge/moved%20to-Codeberg-2185d0?style=for-the-badge\&logo=codeberg)](https://codeberg.org/supitszaire/thinkpad-p50-hackintosh-guide)
+
 # Thinkpad P50 Hackintosh-ing made (sorta) easy / [OpenCore only] __(UNFINISHED)__
+
+![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=for-the-badge)
+[![Moved to Codeberg](https://img.shields.io/badge/moved%20to-Codeberg-2185d0?style=for-the-badge\&logo=codeberg)](https://codeberg.org/supitszaire)
+
+> ⚠️ **This repository is archived and read-only.**
+> Development has moved to **Codeberg**:
+> 
+> https://codeberg.org/supitszaire/thinkpad-p50-hackintosh-guide
+>
+> The move was made due to GitHub platform changes (including CI costs and other ecosystem decisions).
+> Please use the Codeberg version for the latest code, issues, and contributions.
+
 
 ---
 
